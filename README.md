@@ -38,12 +38,6 @@ I maintain the production blueprints for the BizSafer ecosystem. While the core 
 ### 📈 GitHub Stats
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=4kamruzzaman.4kamruzzaman&"  />
-</div>
-
-<br />
-
-<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4kamruzzaman&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
