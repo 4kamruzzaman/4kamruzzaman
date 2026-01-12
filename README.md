@@ -11,7 +11,7 @@ Currently, I am the **Lead Cloud & DevOps Engineer** for **BizSafer**, orchestra
 | Category | Technologies |
 | :--- | :--- |
 | **Orchestration** | Docker, Nginx, Cloudflare |
-| **Backend Core** | PHP 8.3, Laravel 11, MySQL 8.0 |
+| **Backend Core** | PHP 8.3, Laravel 12, MySQL 8.0 |
 | **Frontend Edge** | React, Vite, Tailwind CSS |
 | **DevOps & CI/CD** | GitHub Actions, Linux, Bash Scripting |
 
