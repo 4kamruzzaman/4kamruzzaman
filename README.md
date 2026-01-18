@@ -1,29 +1,41 @@
-### Hi there, I'm Md. Kamruzzaman! 👋
-**Lead Cloud & DevOps Engineer (Solo) | SRE | Infrastructure Architect**
+# Senior SRE Architect | Lead @ BizSafer
 
-I specialize in building **self-healing, distributed systems** for high-traffic applications. My focus is on "Production-First" architecture—ensuring reliability, security, and automated recovery.
+### Engineering Resilient Systems That Are Safe To Scale.
 
-Currently, I am the **Lead Cloud & DevOps Engineer** for **BizSafer**, orchestrating a multi-service ecosystem handling **4+ live production environments**.
+I operate **BizSafer**, a specialized **Production-First Engineering Lab** focused on high-availability infrastructure for platforms in **North America, the United Kingdom, and Europe**. My work is defined by industrial-grade standards and a commitment to the SRE Standard of reliability.
 
 ---
 
-### 🛠️ Technical Stack & Tools
-| Category | Technologies |
+### 📊 The SRE Standard (Operational Metrics)
+* **99.9% Availability Target:** Engineering zero-single-point-of-failure (ZSPoF) architectures.
+* **<60s MTTR:** Implementing automated self-healing loops and disaster recovery protocols.
+* **Sub-200ms Latency:** Optimizing the "Golden Path" from database to edge delivery.
+
+---
+
+### 🏗️ Technical Pillars & Lab Focus
+
+| Pillar | Core Stack |
 | :--- | :--- |
-| **Orchestration** | Docker, Nginx, Cloudflare |
-| **Backend Core** | PHP 8.3, Laravel 12, MySQL 8.0 |
-| **Frontend Edge** | React, Vite, Tailwind CSS |
-| **DevOps & CI/CD** | GitHub Actions, Linux, Bash Scripting |
+| **Infrastructure as Code** | Terraform / OpenTofu, Ansible |
+| **Orchestration & Scaling** | Kubernetes (EKS, GKE, AKS), Docker |
+| **Cloud & Edge Security** | AWS, GCP, Azure, Cloudflare WAF, Nginx Hardening |
+| **Observability** | Prometheus, Grafana, ELK Stack (Four Golden Signals) |
+| **Application Cores** | High-Performance Laravel, Next.js, Node.js, MySQL |
 
 ---
 
-### 🚀 Featured Infrastructure Architecture
-- 🛡️ **[Backend Core: Self-Healing API Infrastructure](https://github.com/4kamruzzaman/bizsafer-backend-core)**: Isolated Docker environments with automated Health Gates.
-- 🌐 **[Frontend Edge: High-Performance Delivery](https://github.com/4kamruzzaman/bizsafer-frontend-core)**: Edge-accelerated UI with Blue-Green deployment strategies.
+### 🧪 Current Lab Research (BizSafer)
+* **Configuration Management:** Standardizing immutable infrastructure using **Ansible** to eliminate manual drift.
+* **Centralized Logging:** Engineering **ELK Stack** pipelines for deep-dive root cause analysis and <60s MTTR.
+* **Automated Failover:** Refactoring legacy standalone environments into high-availability clusters.
 
 ---
 
-### 📬 Connect with Me
-- **LinkedIn:** [4kamruzzaman](https://www.linkedin.com/in/4kamruzzaman)
-- **Website:** [www.bizsafer.com](https://www.bizsafer.com)
-- **Email:** 4kamruzzaman@gmail.com
+### 🌐 Connect & Audit
+* **Website:** [bizsafer.com](https://bizsafer.com)
+* **Professional:** [LinkedIn](YOUR_LINKEDIN_URL)
+* **Mission:** Currently accepting **Infrastructure Reliability Audits** for high-growth platforms.
+
+---
+> "We don't just build software; we engineer resilient systems."
