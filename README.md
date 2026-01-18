@@ -1,8 +1,8 @@
-# Senior SRE Architect | Lead @ BizSafer
+# Senior SRE & Lead Architect | New York & Global Remote @ BizSafer
 
 ### Engineering Resilient Systems That Are Safe To Scale.
 
-I operate **BizSafer**, a specialized **Production-First Engineering Lab** focused on high-availability infrastructure for platforms in **North America, the United Kingdom, and Europe**. My work is defined by industrial-grade standards and a commitment to the SRE Standard of reliability.
+I operate **BizSafer**, a specialized **Production-First Engineering Lab** anchored in **New York**. I focus on high-availability infrastructure for platforms in **North America, the United Kingdom, and Europe**, delivering industrial-grade reliability through the SRE Standard.
 
 ---
 
@@ -27,7 +27,7 @@ I operate **BizSafer**, a specialized **Production-First Engineering Lab** focus
 
 ### 🧪 Current Lab Research (BizSafer)
 * **Configuration Management:** Standardizing immutable infrastructure using **Ansible** to eliminate manual drift.
-* **Centralized Logging:** Engineering **ELK Stack** pipelines for deep-dive root cause analysis and <60s MTTR.
+* **Centralized Logging:** Engineering **ELK Stack** pipelines for deep-dive root cause analysis and automated restoration.
 * **Automated Failover:** Refactoring legacy standalone environments into high-availability clusters.
 
 ---
