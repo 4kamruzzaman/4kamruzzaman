@@ -35,7 +35,7 @@ I operate **BizSafer**, a specialized **Production-First Engineering Lab** focus
 ### 🌐 Connect & Audit
 * **Website:** [www.bizsafer.com](https://www.bizsafer.com)
 * **LinkedIn:** [Md. Kamruzzaman](https://www.linkedin.com/in/4kamruzzaman)
-* **Email:** [kamruzzaman@bizsafer.com](kamruzzaman@bizsafer.com)
+* **Email:** [kamruzzaman@bizsafer.com](mailto:kamruzzaman@bizsafer.com)
 * **Mission:** Currently accepting **Infrastructure Reliability Audits** for high-growth platforms.
 
 ---
