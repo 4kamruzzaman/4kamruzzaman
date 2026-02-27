@@ -1,5 +1,5 @@
 # Senior SRE and Lead Architect
-## New York and Global Remote at BizSafer
+## Global Remote at BizSafer
 
 ### Engineering Resilient Systems That Are Safe To Scale.
 
