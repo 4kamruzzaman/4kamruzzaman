@@ -3,8 +3,7 @@
 
 Engineering resilient systems that are safe to scale.
 
-I operate **BizSafer**, a specialized **Production-First Engineering Lab** anchored in New York.  
-My focus is high-availability infrastructure for platforms across North America, the United Kingdom, and Europe — delivering industrial-grade reliability through strict **Site Reliability Engineering (SRE)** standards.
+I operate **BizSafer**, a specialized **Production-First Engineering Lab** anchored in New York. My focus is high-availability infrastructure for platforms across North America, the United Kingdom, and Europe — delivering industrial-grade reliability through strict **Site Reliability Engineering (SRE)** standards.
 
 ---
 
@@ -49,8 +48,8 @@ Engineering ELK Stack pipelines for deep-dive root cause analysis and automated 
 ## 🌐 Connect & Audit
 
 - **Website:** https://www.bizsafer.com  
-- **LinkedIn:** Md. Kamruzzaman  
-- **GitHub Repository:** R2Upload Architecture  
+- **LinkedIn:** [Md. Kamruzzaman](https://www.linkedin.com/in/4kamruzzaman/)  
+- **GitHub Repository:** [R2Upload Architecture](https://github.com/4kamruzzaman/r2upload-architecture)  
 - **Email:** kamruzzaman@bizsafer.com  
 
 ---
