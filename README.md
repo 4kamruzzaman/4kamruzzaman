@@ -3,7 +3,7 @@
 
 ### Engineering Resilient Systems That Are Safe To Scale.
 
-I operate **BizSafer**, a specialized **Production-First Engineering Lab** anchored in **New York**. I focus on high-availability infrastructure for platforms in **North America, the United Kingdom, and Europe**, delivering industrial-grade reliability through the SRE Standard.
+I operate **BizSafer**, a specialized **Production-First Engineering Lab** anchored in **New York**. I focus on high-availability infrastructure for platforms in **North America, the United Kingdom, and Europe**, delivering industrial-grade reliability through the SRE Standard. Concurrently, I serve as a **Lead Design Partner** for **CloudWise**, architecting Air-Gapped Zero-Trust environments for enterprise FinOps.
 
 ---
 
@@ -23,10 +23,11 @@ R2Upload is a secure enterprise file management SaaS engineered by the BizSafer 
 
 ---
 
-### 🏗️ Technical Pillars and Lab Focus
+### 🛠️ Technical Pillars and Lab Focus
 
 | Pillar | Core Stack |
 | :--- | :--- |
+| **Cloud Compliance & Zero-Trust** | Air-Gapped Architecture, Deterministic Hashing, AWS CUR 2.0 |
 | **Infrastructure as Code** | Terraform, OpenTofu, Ansible |
 | **Orchestration and Scaling** | Kubernetes, Docker, Kamal 2 |
 | **Cloud and Edge Security** | AWS, GCP, Azure, Cloudflare WAF, Nginx |
