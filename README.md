@@ -18,8 +18,8 @@ I operate **BizSafer**, a specialized **Production-First Engineering Lab** ancho
 R2Upload is a secure enterprise file management SaaS engineered by the BizSafer Lab to demonstrate Tier-1 deployment standards.
 * **Live Production Environment:** [r2upload.io](https://r2upload.io)
 * **Open-Source Whitepaper:** [r2upload-architecture](https://github.com/4kamruzzaman/r2upload-architecture)
-* **The Stack:** Next.js 16 edge nodes, Laravel 12 API core, PostgreSQL 16 persistence, and Redis 8 asynchronous queues.
-* **Orchestration:** 100% Dockerized environments deployed via Kamal 2 for atomic, zero-downtime traffic swapping.
+* **The Stack:** Next.js 16 edge nodes, Laravel 12 API core, PostgreSQL 16 persistence, Redis 8 asynchronous queues, and isolated S3-Compatible Storage nodes.
+* **Orchestration:** 100% Dockerized environments deployed via Kamal 2 utilizing kamal-proxy for atomic, zero-downtime traffic swapping.
 
 ---
 
