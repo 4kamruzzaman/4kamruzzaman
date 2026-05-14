@@ -14,12 +14,23 @@ I operate **BizSafer**, a specialized **Production-First Engineering Lab** ancho
 
 ---
 
-### 🚀 Featured Enterprise Architecture: R2Upload
-R2Upload is a secure enterprise file management SaaS engineered by the BizSafer Lab to demonstrate Tier-1 deployment standards.
-* **Live Production Environment:** [r2upload.io](https://r2upload.io)
-* **Open-Source Whitepaper:** [r2upload-architecture](https://github.com/4kamruzzaman/r2upload-architecture)
-* **The Stack:** Next.js 16 edge nodes, Laravel 12 API core, PostgreSQL 16 persistence, Redis 8 asynchronous queues, and isolated S3-Compatible Storage nodes.
-* **Orchestration:** 100% Dockerized environments deployed via Kamal 2 utilizing kamal-proxy for atomic, zero-downtime traffic swapping.
+### 🚀 Featured Enterprise Architectures
+
+I maintain open-source reference blueprints proving the exact SRE and FinOps standards we deploy to production.
+
+**1. R2Upload (V2 Enterprise SaaS Refactor)**
+R2Upload is a secure enterprise file management SaaS demonstrating Tier-1 payload routing and zero-egress cloud economics.
+* **Live Production:** [r2upload.io](https://r2upload.io)
+* **Open-Source Blueprint:** [r2upload-architecture](https://github.com/4kamruzzaman/r2upload-architecture)
+* **The FinOps Stack:** Next.js 16 standalone edge nodes, Laravel 12 API core utilizing Supervisord to natively manage internal Redis workers, PostgreSQL 16 persistence, and strictly isolated Cloudflare R2 Storage Vaults.
+* **Orchestration:** Kamal 2 executing atomic, zero-downtime traffic swapping via kamal-proxy.
+
+**2. BizSafer Global (Corporate Perimeter)**
+The zero-downtime corporate infrastructure blueprint for the BizSafer Engineering Lab.
+* **Live Production:** [www.bizsafer.com](https://www.bizsafer.com)
+* **Open-Source Blueprint:** [bizsafer-corporate-architecture](https://github.com/4kamruzzaman/bizsafer-corporate-architecture)
+* **The Decoupled Stack:** Fully decoupled monorepo isolating Next.js 16 edge delivery from the Laravel 13 API core.
+* **Orchestration:** 100% Dockerized automated GitOps pipelines enforcing strict static analysis before deployment.
 
 ---
 
