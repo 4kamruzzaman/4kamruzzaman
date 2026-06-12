@@ -2,7 +2,7 @@
 
 ### Engineering Resilient Systems That Are Safe To Scale.
 
-I operate **BizSafer**, a specialized *Production-First Engineering Lab* anchored in *New York*. I focus on high-availability infrastructure and heavy distributed application cores for platforms in *North America, the United Kingdom, and Europe*. I deliver industrial-grade reliability through the strict SRE Standard. Concurrently, I enforce architectural validation, anomaly detection, and secure perimeter governance as a *Lead Design Partner* for enterprise cloud compliance layers.
+I operate **BizSafer**, a specialized *Production-First Engineering Lab* anchored in *New York*. I focus on high-availability infrastructure and heavy distributed application cores for platforms in *North America, the United Kingdom, and Europe*. I deliver industrial-grade reliability through the strict SRE Standard. Most recently, I enforced architectural validation, anomaly detection, and secure perimeter governance as a _Lead Design Partner_ for enterprise cloud compliance layers, completing a clean architectural offboarding in June 2026.
 
 ---
 
@@ -49,7 +49,7 @@ An enterprise-grade business operations platform engineered to govern nationwide
 | **Orchestration and Scaling** | Kubernetes, Docker, Kamal 2 |
 | **Cloud and Edge Security** | AWS, GCP, Azure, Cloudflare WAF, Nginx |
 | **Observability** | Prometheus, Grafana, ELK Stack |
-| **Application Cores** | Laravel, Next.js, React.js, PostgreSQL, MySQL, Redis |
+| **Application Cores** | Laravel, Next.js, PostgreSQL, MySQL, Redis |
 
 ---
 
