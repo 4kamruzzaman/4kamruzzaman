@@ -1,9 +1,8 @@
-# Senior SRE and Lead Architect
-## Global Remote at BizSafer
+# Senior SRE and Lead Architect at BizSafer
 
 ### Engineering Resilient Systems That Are Safe To Scale.
 
-I operate **BizSafer**, a specialized **Production-First Engineering Lab** anchored in **New York**. I focus on high-availability infrastructure for platforms in **North America, the United Kingdom, and Europe**, delivering industrial-grade reliability through the SRE Standard. Concurrently, I serve as a **Lead Design Partner** for **CloudWise**, architecting Air-Gapped Zero-Trust environments for enterprise FinOps.
+I operate **BizSafer**, a specialized *Production-First Engineering Lab* anchored in *New York*. I focus on high-availability infrastructure and heavy distributed application cores for platforms in *North America, the United Kingdom, and Europe*. I deliver industrial-grade reliability through the strict SRE Standard. Concurrently, I enforce architectural validation, anomaly detection, and secure perimeter governance as a *Lead Design Partner* for enterprise cloud compliance layers.
 
 ---
 
@@ -32,6 +31,13 @@ The zero-downtime corporate infrastructure blueprint for the BizSafer Engineerin
 * **The Decoupled Stack:** Fully decoupled monorepo isolating Next.js 16 edge delivery from the Laravel 13 API core.
 * **Orchestration:** 100% Dockerized automated GitOps pipelines enforcing strict static analysis before deployment.
 
+#### 3. Industrial ERP (Warranty & Supply Chain Architecture)
+An enterprise-grade business operations platform engineered to govern nationwide dealer networks and hardware lifecycles.
+* **Live Production:** [maxon.com.bd](https://maxon.com.bd)
+* **Open-Source Blueprint:** [industrial-erp-architecture](https://github.com/4kamruzzaman/industrial-erp-architecture)
+* **The Decoupled Stack:** Standalone Next.js 16 edge delivery environments natively decoupled from a Laravel 13 API core. Utilizes a PostgreSQL 18 relational persistence boundary and internal Redis 8 queues managed by Supervisord.
+* **Orchestration:** Automated GitHub Actions pushing immutable images to GHCR with Kamal 2 managing atomic traffic swapping.
+
 ---
 
 ### 🛠️ Technical Pillars and Lab Focus
@@ -43,7 +49,7 @@ The zero-downtime corporate infrastructure blueprint for the BizSafer Engineerin
 | **Orchestration and Scaling** | Kubernetes, Docker, Kamal 2 |
 | **Cloud and Edge Security** | AWS, GCP, Azure, Cloudflare WAF, Nginx |
 | **Observability** | Prometheus, Grafana, ELK Stack |
-| **Application Cores** | Laravel, Next.js, Node.js, PostgreSQL, MySQL, Redis |
+| **Application Cores** | Laravel, Next.js, React.js, PostgreSQL, MySQL, Redis |
 
 ---
 
