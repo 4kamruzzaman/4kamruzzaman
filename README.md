@@ -17,14 +17,14 @@ I operate **BizSafer**, a specialized *Production-First Engineering Lab* anchore
 
 I maintain open-source reference blueprints proving the exact SRE and FinOps standards we deploy to production.
 
-### 1. R2Upload (V2 Enterprise SaaS Refactor)**
+#### 1. R2Upload (V2 Enterprise SaaS Refactor)
 R2Upload is a secure enterprise file management SaaS demonstrating Tier-1 payload routing and zero-egress cloud economics.
 * **Live Production:** [r2upload.io](https://r2upload.io)
 * **Open-Source Blueprint:** [r2upload-architecture](https://github.com/4kamruzzaman/r2upload-architecture)
 * **The FinOps Stack:** Next.js 16 standalone edge nodes, Laravel 12 API core utilizing Supervisord to natively manage internal Redis workers, PostgreSQL 16 persistence, and strictly isolated Cloudflare R2 Storage Vaults.
 * **Orchestration:** Kamal 2 executing atomic, zero-downtime traffic swapping via kamal-proxy.
 
-### 2. BizSafer Global (Corporate Perimeter)**
+#### 2. BizSafer Global (Corporate Perimeter)
 The zero-downtime corporate infrastructure blueprint for the BizSafer Engineering Lab.
 * **Live Production:** [www.bizsafer.com](https://www.bizsafer.com)
 * **Open-Source Blueprint:** [bizsafer-corporate-architecture](https://github.com/4kamruzzaman/bizsafer-corporate-architecture)
